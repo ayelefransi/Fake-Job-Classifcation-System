@@ -4,4 +4,6 @@ joblib
 pandas
 numpy
 sentence-transformers
-scikit-learn
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
