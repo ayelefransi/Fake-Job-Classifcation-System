@@ -1,6 +1,6 @@
 #  AI Job Authenticity Scanner
 
-![Fake Job Detector](/frontend/public/vite.svg) (*Add your hero screenshot here*)
+<img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/1c7a55a1-7c18-4b9c-a2d0-77a2376458d1" />
 
 A full-stack, AI-powered system designed to detect fraudulent or scam job postings. Built with **React** (Vite), **FastAPI**, and a powerful **Machine Learning Ensemble Meta-Learner** trained on thousands of real and fake job listings.
 
